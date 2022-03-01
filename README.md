@@ -1,2 +1,2 @@
 # Temporal-Series
-Temporal Series Predicction
+Temporal Series Prediction
